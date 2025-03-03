@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FreeCine - The best platform to watch and download free movies and TV shows online.">
+    <title>FreeCine - Watch Free Movies & TV Shows Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to FreeCine - Your Ultimate Movie Hub</h1>
+        <p>Are you looking for the best platform to <strong>watch and download free movies and TV shows</strong>? Look no further! FreeCine offers a vast collection of the latest films and series in high quality.</p>
+        <p>Why choose FreeCine?</p>
+        <ul>
+            <li>High-quality streaming and downloads</li>
+            <li>Massive library of movies and TV shows</li>
+            <li>Completely free and easy to use</li>
+        </ul>
+        <p>Visit our official website to explore our collection: <a href="https://freecineapps.com.br" target="_blank">Freecineapps</a></p>
+    </div>
+</body>
+</html>
